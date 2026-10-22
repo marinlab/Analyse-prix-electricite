@@ -1,0 +1,6 @@
+methode,MAE,RMSE
+"Prix de la veille, même heure",20.1,28.8
+"Prix de la semaine précédente, même heure",31.1,42.3
+"Modèle, variables réalisées (avantagé)",18.4,23.3
+"Modèle, prévisions de la veille",18.1,22.9
+"Modèle, prévisions + prix de la veille",15.5,20.1

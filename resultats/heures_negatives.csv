@@ -1,0 +1,17 @@
+zone,annee,saison,heures,prix_moyen,heures_negatives
+DE_LU,2024,automne,2185,92.7,37
+DE_LU,2024,ete,2208,74.4,158
+DE_LU,2024,hiver,2184,81,21
+DE_LU,2024,printemps,2207,63.9,124
+DE_LU,2025,automne,2185,90.7,94
+DE_LU,2025,ete,2208,76.8,177
+DE_LU,2025,hiver,2160,112.2,16
+DE_LU,2025,printemps,2207,79.1,204
+FR,2024,automne,2185,71.4,30
+FR,2024,ete,2208,46.5,165
+FR,2024,hiver,2184,78.1,8
+FR,2024,printemps,2207,36.4,149
+FR,2025,automne,2184,50.6,77
+FR,2025,ete,2208,51.2,203
+FR,2025,hiver,2157,97.1,0
+FR,2025,printemps,2207,46.2,233

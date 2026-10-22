@@ -1,0 +1,9 @@
+zone,variable,n,coefficient,t_mois,r2_ajuste
+FR,eolien_gw,17540,-4.17,-12.7,0.73
+FR,solaire_gw,17540,-4.47,-9.4,0.73
+FR,conso_gw,17540,3.02,10.3,0.73
+FR,ttf_eur_mwh,17540,1.41,4.9,0.73
+DE_LU,eolien_gw,17544,-2.57,-8.3,0.61
+DE_LU,solaire_gw,17544,-1.98,-4.6,0.61
+DE_LU,conso_gw,17544,3.1,11.7,0.61
+DE_LU,ttf_eur_mwh,17544,0.83,1.5,0.61
